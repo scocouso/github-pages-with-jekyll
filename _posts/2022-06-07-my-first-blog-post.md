@@ -1,3 +1,8 @@
+---
+title: "Welcome to my blog"
+date: 2022-06-07
+---
+
 # TITLE
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer eu fermentum lacus. In vitae dolor purus. Nunc pretium tellus vitae neque efficitur, quis dictum mauris fringilla. Nunc tempus diam quam, sollicitudin efficitur mi sodales non. Suspendisse imperdiet metus quis ultrices eleifend. Fusce in tincidunt nisi. Morbi ex turpis, semper quis molestie nec, pretium ac ex. Sed sodales in nisl eget porttitor. Aliquam vel nisi commodo, tempor nunc ac, pulvinar leo. Donec auctor tortor non augue cursus, cursus suscipit eros consectetur. Vestibulum cursus, tellus eget dignissim molestie, orci libero vehicula quam, ullamcorper semper elit massa in ex. Nullam finibus odio eget tempus finibus.
